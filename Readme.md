@@ -1,13 +1,12 @@
-<div style="text-align: center;"> 
+<div style="text-align: center;">
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Abinash+Patra%F0%9F%91%8B;Let's+Connect!"/>
 </div>
 
-<div align="center">
-  <a href="https://twitter.com/will-be-added-here">
+<div align="center" style="margin-top: 10px;"> <!-- Added margin-top for spacing -->
+  <a href="https://twitter.com/will-be-added-here" style="margin-right: 10px;"> <!-- Adjusted alignment -->
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/will-be-added-here">
+  <a href="https://www.linkedin.com/in/will-be-added-here"> <!-- Adjusted alignment -->
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">
   </a>
 </div>
@@ -16,13 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=nikhil12341" alt="Profile Views">
 </div>
 
-## About Abinash
+## Journey of Passion and Code
 
-<p align="center" style="font-size: 14px;">
-Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Abinash+Patra%F0%9F%91%8B;Let's+Connect!)
 
-<p align="center">Fun fact: will be added here in Binary.</p>
+Welcome to my digital sanctuary, where curiosity fuels my quest to craft exceptional software and elevate the developer experience.
+
+
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
