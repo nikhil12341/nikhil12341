@@ -34,7 +34,7 @@ Hello, I'm Abinash Patra, a beginner in the world of software development, eager
 <tr>
   <td><img src="https://skillicons.dev/icons?i=html,css,js,dotnet,sklearn,react,tailwind,nodejs,mongodb,bitbucket"></td>
   <td><img src="https://skillicons.dev/icons?i=cs,python,c,cplusplus&theme=dark"></td>
-  <td><img src="https://skillicons.dev/icons?i=sklearn,pandas,matplotlib&theme=dark"></td> 
+  <td><img src="https://skillicons.dev/icons?i=sklearn&theme=dark"></td> 
 </tr>
 <tr>
   <td><strong>Cloud</strong></td>
