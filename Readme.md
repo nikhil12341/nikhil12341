@@ -40,6 +40,7 @@ Just a software enthusiast looking to enhance my developer skills, build robust 
 </tr>
 <tr>
   <td><img src="https://skillicons.dev/icons?i=docker&theme=dark"></td>
+  <td><img src="https://dotnet.microsoft.com/static/images/redesign/downloads-dotnet.svg" alt=".NET" height="30"></td>
 </tr>
 </table>
 
@@ -60,4 +61,3 @@ Just a software enthusiast looking to enhance my developer skills, build robust 
 - 🌮 [Your Blog Title](Your Blog Link)
 - 🐋 [Your Second Blog Title](Your Second Blog Link)
 <!-- BLOGPOSTS:END -->
-
