@@ -11,7 +11,6 @@
 <p style="font-size:7px;">
 Just a software enthusiast looking to enhance my developer skills, build robust applications, and contribute to open-source projects.
 </p>
-<p>Fun fact: I'm fluent in Binary (01000011 01001111 01000100 01000101).</p>
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
