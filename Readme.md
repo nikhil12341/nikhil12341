@@ -18,7 +18,7 @@
 ## About Abinash
 
 <p align="center" style="font-size: 16px;">
-Hello, I'm Abinash Patra, a beginner in the world of software development, eager to enhance my developer workflow, build efficient projects, explore memory management, and learn the art of crafting meaningful software.
+Hello, I'm Abinash Patra, a beginner in the world of software development, eager to enhance my developer workflow, build efficient projects and learn the art of crafting meaningful software.
 </p>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
