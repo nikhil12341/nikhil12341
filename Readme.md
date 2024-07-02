@@ -33,8 +33,8 @@ Hello, I'm Abinash Patra, a beginner in the world of software development, eager
   <td><strong>Languages</strong></td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb"></td>
-  <td><img src="https://skillicons.dev/icons?i=csharp,python,c,cplusplus&theme=dark"></td>
+  <td><img src="https://skillicons.dev/icons?i=html,css,js,dotnet,sklearn,react,tailwind,nodejs,mongodb"></td>
+  <td><img src="https://skillicons.dev/icons?i=cs,python,c,cplusplus&theme=dark"></td>
 
 </tr>
 <tr>
@@ -43,7 +43,7 @@ Hello, I'm Abinash Patra, a beginner in the world of software development, eager
 </tr>
 <tr>
   <td><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,netlify&theme=dark"></td>
-  <td><img src="https://skillicons.dev/icons?i=git,vscode,github,vim,githubactions&theme=dark"></td>
+  <td><img src="https://skillicons.dev/icons?i=git,vscode,github,githubactions&theme=dark"></td>
 </tr>
 </table>
 
