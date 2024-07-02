@@ -21,8 +21,6 @@
 Hello, I'm Abinash Patra, a beginner in the world of software development, eager to enhance my developer workflow, build efficient projects, explore memory management, and learn the art of crafting meaningful software.
 </p>
 
-<p align="center">Fun fact: Stay curious, there's always something new to discover!</p>
-
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
@@ -31,19 +29,22 @@ Hello, I'm Abinash Patra, a beginner in the world of software development, eager
 <tr>
   <td><strong>Web Development</strong></td>
   <td><strong>Languages</strong></td>
+  <td><strong>Data Science</strong></td> 
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=html,css,js,dotnet,sklearn,react,tailwind,nodejs,mongodb"></td>
+  <td><img src="https://skillicons.dev/icons?i=html,css,js,dotnet,sklearn,react,tailwind,nodejs,mongodb,bitbucket"></td>
   <td><img src="https://skillicons.dev/icons?i=cs,python,c,cplusplus&theme=dark"></td>
-
+  <td><img src="https://skillicons.dev/icons?i=sklearn,pandas,matplotlib&theme=dark"></td> 
 </tr>
 <tr>
   <td><strong>Cloud</strong></td>
   <td><strong>Tools</strong></td>
+  <td></td> 
 </tr>
 <tr>
   <td><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,netlify&theme=dark"></td>
   <td><img src="https://skillicons.dev/icons?i=git,vscode,github,githubactions&theme=dark"></td>
+  <td></td> 
 </tr>
 </table>
 
