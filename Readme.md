@@ -2,7 +2,7 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Abinash+Patra%F0%9F%91%8B;Let's+Connect!"/>
 </div>
 
-<div align="center" style="margin-top: 10px;"> <!-- Added margin-top for spacing -->
+<div align="left" style="margin-top: 10px;"> <!-- Added margin-top for spacing -->
   <a href="https://twitter.com/will-be-added-here" style="margin-right: 10px;"> <!-- Adjusted alignment -->
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30">
   </a>
@@ -15,13 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=nikhil12341" alt="Profile Views">
 </div>
 
-## Journey of Passion and Code
+## About Abinash
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Abinash+Patra%F0%9F%91%8B;Let's+Connect!)
+<p align="center" style="font-size: 16px;">
+Hello, I'm Abinash Patra, a beginner in the world of software development, eager to enhance my developer workflow, build efficient projects, explore memory management, and learn the art of crafting meaningful software.
+</p>
 
-Welcome to my digital sanctuary, where curiosity fuels my quest to craft exceptional software and elevate the developer experience.
-
-
+<p align="center">Fun fact: Stay curious, there's always something new to discover!</p>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
@@ -33,11 +33,12 @@ Welcome to my digital sanctuary, where curiosity fuels my quest to craft excepti
   <td><strong>Languages</strong></td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb"></td>
-  <td><img src="https://skillicons.dev/icons?i=java,python,c&theme=dark"></td>
+  <td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb"></td>
+  <td><img src="https://skillicons.dev/icons?i=csharp,python,c,cplusplus&theme=dark"></td>
+
 </tr>
 <tr>
-  <td><strong>Cybersecurity & Cloud</strong></td>
+  <td><strong>Cloud</strong></td>
   <td><strong>Tools</strong></td>
 </tr>
 <tr>
